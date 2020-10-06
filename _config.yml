@@ -9,7 +9,7 @@
 title: DBA MultiTool
 email: john@lowlydba.com
 description: A suite of T-SQL utility scripts for Microsoft SQL Server.
-baseurl: "/hyperspace-jekyll-theme" # the subpath of your site, e.g. /blog
+baseurl: "/hyperspace-jekyll-theme/" # the subpath of your site, e.g. /blog
 url: "https://lowlydba.gitlab.io" # the base hostname & protocol for your site
 
 # Social settings
